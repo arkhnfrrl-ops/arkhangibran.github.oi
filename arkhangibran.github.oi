@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV - Arkhan Gibran Al Farrel</title>
+  <style>
+    body {
+      font-family: 'Poppins', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 40px;
+      background-color: #0d1117;
+      color: #e6edf3;
+      line-height: 1.7;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #161b22;
+      padding: 40px 50px;
+      border-radius: 10px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    }
+    h1, h2 {
+      color: #58a6ff;
+    }
+    hr {
+      border: 0;
+      border-top: 2px solid #30363d;
+      margin: 20px 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    td {
+      padding: 6px 0;
+      vertical-align: top;
+    }
+    ul {
+      margin: 10px 0 10px 20px;
+    }
+    a {
+      color: #58a6ff;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9em;
+      color: #8b949e;
+    }
+    .signature {
+      margin-top: 40px;
+      font-weight: bold;
+    }
+    .highlight {
+      color: #79c0ff;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Curriculum Vitae</h1>
+    <hr>
+
+    <h2>Data Pribadi</h2>
+    <table>
+      <tr><td><b>Nama</b></td><td>: Arkhan Gibran Al Farrel</td></tr>
+      <tr><td><b>Tempat, Tanggal Lahir</b></td><td>: Klaten, 28 Juni 2008</td></tr>
+      <tr><td><b>Alamat</b></td><td>: Jambon RT001/RW006, Mrisen, Juwiring, Klaten</td></tr>
+      <tr><td><b>Email</b></td><td>: <a href="mailto:arkhnfrrl@gmail.com">arkhnfrrl@gmail.com</a></td></tr>
+      <tr><td><b>No. WhatsApp</b></td><td>: 0851-9851-3957</td></tr>
+      <tr><td><b>Status</b></td><td>: Lajang / Belum Kawin</td></tr>
+      <tr><td><b>Pekerjaan</b></td><td>: Siswa SMK Negeri 1 Juwiring</td></tr>
+    </table>
+
+    <h2>Pendidikan</h2>
+    <ul>
+      <li>2014 – 2020 : SD Negeri 1 Gatak</li>
+      <li>2020 – 2023 : SMP Negeri 3 Delanggu</li>
+      <li>2023 – Sekarang : SMK Negeri 1 Juwiring</li>
+    </ul>
+
+    <h2>Pengalaman Kerja</h2>
+    <p>Belum memiliki pengalaman kerja formal, namun siap belajar dan beradaptasi dalam lingkungan kerja yang baru.</p>
+
+    <h2>Tujuan Melamar</h2>
+    <p>Mencari pengalaman kerja sebagai <span class="highlight">pekerja paruh waktu (freelance)</span> untuk menambah wawasan dan mengasah kemampuan.</p>
+
+    <h2>Keahlian</h2>
+    <ul>
+      <li>Disiplin dan bertanggung jawab</li>
+      <li>Mampu bekerja sama dalam tim</li>
+      <li>Cepat belajar hal baru</li>
+      <li>Komunikatif</li>
+    </ul>
+
+    <h2>Penutup</h2>
+    <p>Demikian Curriculum Vitae ini saya buat dengan sebenar-benarnya. Saya siap mengikuti proses seleksi dan wawancara apabila dibutuhkan.</p>
+    <p>Atas perhatian dan kesempatannya, saya ucapkan terima kasih.</p>
+
+    <div class="signature">
+      Hormat saya,<br><br>
+      Arkhan Gibran Al Farrel
+    </div>
+
+    <div class="footer">
+      &copy; 2025 Arkhan Gibran Al Farrel. All Rights Reserved.
+    </div>
+  </div>
+</body>
+</html>
